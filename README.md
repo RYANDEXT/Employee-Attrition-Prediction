@@ -1,5 +1,5 @@
 # Employee-Attrition-Prediction (Model Selection)
-Predict the employee will not or not, using a variety of classification
+Predict the employee will leave or not, using a variety of classification
 
 
 ## Setup environment
